@@ -1,0 +1,2 @@
+# Movie-Reviews-using-LSTM
+In this example, we're using the IMDB dataset, which contains movie reviews labeled as positive or negative. We're using an LSTM to classify the reviews as positive or negative based on their content. We're using an embedding layer to convert the words in the reviews into dense vectors, and we're padding the sequences to have the same length. Finally, we're using the sigmoid activation function and binary cross-entropy loss because we have a binary classification problem.
